@@ -5,4 +5,4 @@ def vowel(x):
         print("consonant")
 
 
-vowel('s')
+vowel('s')#call the function
