@@ -14,3 +14,5 @@ if(sum1==temp):
     print("The number is a strong number")
 else:
     print("The number is not a strong number")
+
+#program to compute strongest number
