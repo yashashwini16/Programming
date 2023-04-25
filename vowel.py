@@ -6,3 +6,5 @@ def vowel(x):
 
 
 vowel('s')#call the function
+
+#program to find a letter is vowel or consonant
