@@ -7,3 +7,4 @@ def sumofdigits(n):
 n=123
 print("sum is:" ,sumofdigits(n))
 
+#program to sum all the integers
