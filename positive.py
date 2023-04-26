@@ -11,5 +11,7 @@ print("enter a number:")
 n=int(input())
 pos(n)
 
+#program to detect positive numbers
+
 #time complexity:O(1)
 #SPACE   :O(1)
