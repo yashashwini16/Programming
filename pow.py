@@ -8,3 +8,7 @@ N,X=2,3
 print(CalculatePower(N,X))
 N,X=3,4
 print(CalculatePower(N,X))
+
+
+#another method
+print(pow(9,2))
