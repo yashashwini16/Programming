@@ -9,3 +9,4 @@ def alpha(c):
 print("enter a character:")
 c=input()
 alpha(c)
+#to check it is alphabet or not
