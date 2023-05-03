@@ -12,3 +12,4 @@ def palin(n):
 
 n=int(input())
 palin(n)
+#program to find palindrome
