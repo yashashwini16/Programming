@@ -10,3 +10,4 @@ def factorial(n):
 num=3  
 result=factorial(num)
 print(result)
+#to find factorial of a number
