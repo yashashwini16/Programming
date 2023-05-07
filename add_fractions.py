@@ -29,3 +29,5 @@ for i in range(div,0,-1):
         y3=y3//i
 
 print("Sum of fractions is",x3,"/",y3)
+
+#addition of fractions
