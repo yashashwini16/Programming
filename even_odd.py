@@ -8,3 +8,4 @@ print("enter a number:")
 n=int(input())
 even_odd(n)
 
+#program to check even or odd
