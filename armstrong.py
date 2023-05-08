@@ -13,3 +13,5 @@ def arm(n):
 
 n=int(input())
 arm(n)
+
+#program to check whether it is armstrong number or not
