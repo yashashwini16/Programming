@@ -4,3 +4,5 @@ def ascii(x):
 print("enter a letter")
 x=input()
 ascii(x)
+
+#program to find ascii value for a character
